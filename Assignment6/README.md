@@ -1,3 +1,5 @@
+Live Link: https://kausiqassignment6.netlify.app/
+
 **1) What is the difference between var, let, and const?**
 
 •	**var**
@@ -98,4 +100,5 @@ Differences from concatenation:
 •	They allow writing strings across multiple lines without special escape characters.
 
 •	They can be used with tag functions for advanced string processing.
+
 
